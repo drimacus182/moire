@@ -1,0 +1,20 @@
+rect.line1 {
+    stroke: none;
+    fill: black;
+}
+
+rect.line2 {
+    stroke: none;
+    fill: black;
+}
+
+#div1, #div2 {
+    position: absolute;
+    top: 0;
+}
+
+#div2 {
+    transform: rotate(0deg);
+
+
+}
